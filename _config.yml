@@ -1,13 +1,13 @@
-title: "Your Portfolio Title"
-description: "This is a responsive, professional portfolio website designed specifically for cybersecurity engineers and full-stack developers. It features a sleek cyber aesthetic with smooth animations, interactive elements, and a dual theme system (dark/light mode)."
-url: "https://realnamesareboring.github.io" #Your github url goes here
-baseurl: "/jekyll-and-hire" 
+title: "Jordan Simpson"
+description: "I am an aspiring Cybersecurity analyst building skills in threat hunting and security operations."
+url: "https://https://github.com/J0rdynh0" #Your github url goes here
+baseurl: "" 
 
-author: "Your Name"
+author: "Jordan Simpson"
 twitter:
-  username: "yourusername"
+  username: "J0rdynh0"
 social:
-  name: "Your Name"
+  name: ""
   links:
     - "https://twitter.com/yourusername"
     - "https://linkedin.com/in/yourusername"

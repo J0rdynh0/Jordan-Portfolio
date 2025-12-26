@@ -1,14 +1,13 @@
 # Personal Information - Original Template Data
 personal:
-  name: "JOHN DOE"
-  title: "Cybersecurity Engineer & Full Stack Developer"
-  tagline: "// Defending Digital Frontiers"
-  logo: "J.DOE"
+  name: "JORDAN SIMPSON"
+  title: "Cybersecurity Analyst"
+  tagline: "Focused on Proactive Cyber Defense"
+  logo: "J.Simpson"
   email: "john.doe@secureemail.com"
-  phone: "+1 (555) 123-4567"
-  location: "San Francisco, CA"
-  linkedin: "linkedin.com/in/johndoe"
-  github: "github.com/johndoe"
+  location: "Toronto, CA"
+  linkedin: "linkedin.com/in/jordans007"
+  github: "github.com/J0rdynh0"
   profileImage: "/assets/img/profile.jpg"
   bio:
     - "I'm a cybersecurity professional and full-stack developer with 5+ years of experience securing digital infrastructure and building resilient applications. Specializing in penetration testing, threat analysis, and secure application development."
@@ -61,62 +60,66 @@ experience:
 
 # Education - Original Template Data
 education:
-  - degree: "Master of Cybersecurity"
-    institution: "MIT"
-    period: "2017 - 2019"
-    description: "Specialized in network security and cryptography. Thesis on AI-powered threat detection systems."
+  - degree: "Accelerated Cybersecurity Training Program"
+    institution: "ROGERS Cybersecure Catalyst"
+    period: " June 2025"
+    description: "Seven month accelearate program of 2 SANS Institute courses: SANS SEC401 and SEC275 and additonal Cyber Range workshop on cybersecurity incident response and ransomware."
   
-  - degree: "Bachelor of Computer Science"
-    institution: "Stanford University"
-    period: "2013 - 2017"
-    description: "Focus on systems security and software engineering. Summa Cum Laude."
+  - degree: "Bachelor of Business Administration"
+    institution: "Wheeling University"
+    period: "2015 - 2019"
+    description: "Concentrations in Marketing and Management. Focused on strategic analysis, risk-aware decision making, and streamlined operations."
 
 # Certifications - Original Template Data
 certifications:
-  - name: "CISSP"
-    issuer: "ISC²"
-    year: "2023"
-  - name: "CEH"
-    issuer: "EC-Council"
-    year: "2022"
+  - name: "SC-200: Security Operations Analyst Associate"
+    issuer: "Microsoft"
+    year: "Dec 2025"
+  - name: "SEC401: GIAC Security Essentials Certification (GSEC)"
+    issuer: "SANS"
+    year: "March 2025"
+  - name: "Certified Support Technician Cybersecurity (CCST Cybersecurity)"
+    issuer: "CISCO"
+    year: "June 2024"
+  - name: "SEC275: GIAC Foundational Cybersecurity Technologies (GFACT) certification"
+    issuer: "SANS"
+    year: "Dec 2023"
 
 # Skills - Original Template Data
 skills:
-  - category: "Security Operations"
+  - category: "Microsoft Secuirty Stack"
     icon: "🛡️"
     tags:
-      - "SIEM"
-      - "SOC Analysis"
-      - "Incident Response"
-      - "Threat Hunting"
-      - "Forensics"
+      - "Defender for Endpoint"
+      - "Defender for Cloud"
+      - "Defender for Identity"
+      - "Microsoft Sentinel"
+      - "Microsoft XDR"
+      - "Microsoft Intune"
+      - "Purview (Data Governanace)"
+      - "Kusto Query Language (KQL)"
+      - "Security Co-pilot"
   
-  - category: "Penetration Testing"
+  - category: "Security Tools"
     icon: "🎯"
     tags:
       - "Metasploit"
       - "Burp Suite"
       - "Nmap"
       - "OWASP"
-      - "Social Engineering"
-  
-  - category: "Development"
-    icon: "⚡"
-    tags:
-      - "Python"
-      - "Go"
-      - "React"
-      - "Node.js"
-      - "TypeScript"
+      - "Wireshark"
+      - "Tcpdump"
+      - "John the Ripper"
+      - "Snort"
   
   - category: "Cloud Security"
     icon: "☁️"
     tags:
-      - "AWS Security"
-      - "Azure Sentinel"
-      - "Docker"
-      - "Kubernetes"
-      - "Terraform"
+      - "Entra ID"
+      - "Conditional Access"
+      - "Azure Firewall"
+      - "Privileged Identity Management (PIM)"
+      - "Logic Apps / Playbooks"
   
   - category: "Cryptography"
     icon: "🔐"
@@ -127,11 +130,15 @@ skills:
       - "Digital Signatures"
       - "Key Management"
   
-  - category: "Compliance"
+  - category: "Compliance & Frameworks"
     icon: "📋"
     tags:
-      - "ISO 27001"
+      - "Risk Assessment"
+      - Defense-in-Depth
+      - Zero Trust Architecture
       - "NIST"
+      - "MITRE ATT&CK"
+      - "OWASP10"
       - "SOC 2"
       - "GDPR"
       - "HIPAA"
