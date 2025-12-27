@@ -4,15 +4,15 @@ personal:
   title: "Cybersecurity Analyst"
   tagline: "Focused on Proactive Cyber Defense"
   logo: "J.Simpson"
-  email: "john.doe@secureemail.com"
+  email: "simpson.j0rd7n@gmail.com"
   location: "Toronto, CA"
   linkedin: "linkedin.com/in/jordans007"
   github: "github.com/J0rdynh0"
   profileImage: "/assets/img/profile.jpg"
   bio:
-    - "I'm a cybersecurity professional and full-stack developer with 5+ years of experience securing digital infrastructure and building resilient applications. Specializing in penetration testing, threat analysis, and secure application development."
-    - "When I'm not hunting vulnerabilities or coding, you'll find me contributing to security research, participating in CTF competitions, or exploring the latest in AI and machine learning."
-    - "I believe in proactive security measures and clean, documented code. Every line matters when you're protecting critical systems."
+    - "Detail-driven professional with a foundation in business administration and hands-on experience in incident triage, technical troubleshooting, and operational coordination."
+    - "I bring a strong analytical mindset supported by cybersecurity certifications including  Microsoft's SC-200, GSEC and GFACT. Along with practical skills in Microsoft Sentinel, M365 Defender, KQL, and PowerShell"
+    - "I am committed to strengthening security operations by applying structured problem solving, clear documentation, and a proactive approach to identifying and mitigating risks."
 
 # Navigation
 navigation:
@@ -31,39 +31,35 @@ navigation:
 
 # Experience - Original Template Data with Bullet Points
 experience:
-  - title: "Senior Cybersecurity Engineer"
-    company: "CyberDefense Corp"
-    period: "2022 - Present"
+  - title: "Service Coordinator"
+    company: "Interfax Systems Inc."
+    period: "Oct 2022 - Present"
     description:
-      - "Lead security assessments and incident response for enterprise clients"
-      - "Developed automated threat detection systems reducing response time by 60%"
-      - "Implemented zero-trust architecture for critical infrastructure"
-      - "Managed team of 5 security analysts and coordinated with C-level executives"
-  
-  - title: "Full Stack Security Developer"
-    company: "SecureTech Solutions"
-    period: "2020 - 2022"
+      - "Working in the electronic test equipment and measuring equipment distribution industry,helping customers with all their Test Equipment repair and calibration requirements."
+      - "Act as first point of contact for all incoming technical service inquiries, triaging issues via phone and email with a focus on efficient response time and accurate resolution."
+      - "Collaborated with internal technicians and external vendors to investigate, diagnose, and remediate equipment issues, demonstrating strong analytical and problem-solving skills"
+      - "Coordinated service requests and repair bookings with precision, ensuring efficient case handling and timely escalation."
+      - "Maintained detailed records of service interactions and repair quotations, translating complex technical information into clear, actionable communication for customers and stakeholders."
+      - "Partnered closely with service technicians, sales staff, and accounting teams to streamline workflows, showcasing cross-functional collaboration akin to working with IT, compliance, and security teams."
+      - "Utilized a detail-oriented approach to identify potential inefficiencies and issues in the repair workflow."
+       
+  - title: "Assistant Branch Rental Manager"
+    company: "Enterprise Holdings"
+    period: "Feb 2020 - Dec 2021"
     description:
-      - "Built secure web applications with integrated security monitoring"
-      - "Implemented zero-trust architecture for client applications"
-      - "Conducted code reviews and security testing for development teams"
-      - "Reduced security vulnerabilities by 75% through proactive measures"
-  
-  - title: "Penetration Tester"
-    company: "Red Team Labs"
-    period: "2019 - 2020"
-    description:
-      - "Conducted comprehensive security assessments for Fortune 500 companies"
-      - "Identified and documented critical vulnerabilities in web applications"
-      - "Performed social engineering assessments and physical security testing"
-      - "Created detailed remediation reports for executive leadership"
+      - "Managed a flagship branch with a 250+ car fleet, by overseeing daily operations, conducting rigorous vehicle inspections, and scheduling preventive maintenance."
+      - "Develop, plan and actively participate in Branch sales and marketing efforts to drive business growth and reduce costs. Showcasing analytical thinking and proactive problem-solving applicable to identifying and mitigating security risks."
+      - "Resolve escalated customer issues at the counter or over the phone. Received superior customer service satisfaction scores above 90% throughout fiscal year 2021."
+      - "Monitor and inspect fleet for damage daily and ensure regular service and maintenance of vehicles."
+      - " Manage branch receivables, collect difficult accounts receivables, prepare write-offs for non collectible accounts, and recommend customer accounts for referral to collection."
+      - "Review and analyze reports daily, financial statements and monthly billing."
 
 # Education - Original Template Data
 education:
   - degree: "Accelerated Cybersecurity Training Program"
     institution: "ROGERS Cybersecure Catalyst"
-    period: " June 2025"
-    description: "Seven month accelearate program of 2 SANS Institute courses: SANS SEC401 and SEC275 and additonal Cyber Range workshop on cybersecurity incident response and ransomware."
+    period: "Oct 2024 - June 2025"
+    description: "Seven month accelearated program of 2 SANS Institute courses: SANS SEC401 and SEC275 and additonal Cyber Range workshop on cybersecurity incident response and ransomware."
   
   - degree: "Bachelor of Business Administration"
     institution: "Wheeling University"
@@ -145,35 +141,35 @@ skills:
 
 # Projects - Original Template Data
 projects:
-  - title: "ThreatHunter AI"
+  - title: "Azure SOC Automation"
     icon: "🤖"
     url: "https://github.com/yourusername/threathunter-ai"
-    description: "Machine learning-powered threat detection system that analyzes network traffic patterns to identify advanced persistent threats in real-time."
+    description: "Cloud-Based Home SOC lab using Microsoft Sentinel. Verify real world brute-force attacks in real time."
     links:
       - label: "Demo"
         url: "#"
       - label: "GitHub"
         url: "#"
   
-  - title: "SecureVault"
+  - title: "Map SOC 2 Controls to a Sample Cloud Environment"
     icon: "🔒"
-    description: "End-to-end encrypted password manager with zero-knowledge architecture and biometric authentication integration."
+    description: "Use an Azure Sandbox account to understand how technical controls align with SOC 2 Trust Service Criteria."
     links:
       - label: "Demo"
         url: "#"
       - label: "GitHub"
         url: "#"
   
-  - title: "PenTest Toolkit"
+  - title: "Jekyll & Hire"
     icon: "🛠️"
-    description: "Comprehensive penetration testing framework with automated vulnerability scanning and reporting capabilities."
+    description: "Modern, interactive portfolio website built with Jekyll, featuring a sleek tech-themed design perfect for tech professionals or anyone interested. The idea is to, well, get hired!"
     links:
       - label: "GitHub"
         url: "#"
 
 # SEO - Original Template Data
 seo:
-  title: "JOHN DOE - Cybersecurity Engineer & Full Stack Developer"
-  description: "Cybersecurity Engineer and Full Stack Developer specializing in threat detection, penetration testing, and secure application development."
-  keywords: "cybersecurity, penetration testing, full stack developer, threat hunting, security engineer"
+  title: "Jordan Simpson - Cybersecurity Analyst"
+  description: "Detail-driven professional with a foundation in business administration and hands-on experience in incident triage, technical troubleshooting, and operational coordination."
+  keywords: "cybersecurity, soc analyst, incident response, threat hunting, security engineer, IT support, Azure"
   ogImage: "/assets/img/profile.jpg"

@@ -1,14 +1,14 @@
 title: "Jordan Simpson"
 description: "I am an aspiring Cybersecurity analyst building skills in threat hunting and security operations."
-url: "https://https://github.com/J0rdynh0" #Your github url goes here
+url: "https://github.com/J0rdynh0" #Your github url goes here
 baseurl: "" 
 
 author: "Jordan Simpson"
 twitter:
-  username: "J0rdynh0"
+  username:
 social:
   name: ""
   links:
     - "https://twitter.com/yourusername"
     - "https://linkedin.com/in/yourusername"
-    - "https://github.com/yourusername"
+    - "https://github.com/J0rdynh0"
