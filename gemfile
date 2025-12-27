@@ -6,6 +6,7 @@ gem "jekyll", "~> 3.9.0"
 # GitHub Pages gem (includes compatible versions of all plugins)
 gem "github-pages", group: :jekyll_plugins
 
+
 # Ruby 3.4 compatibility - these gems were moved out of default gems
 gem "csv"
 gem "base64"
@@ -15,6 +16,7 @@ gem "fiddle"
 
 # Jekyll plugins (GitHub Pages compatible)
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   gem "jekyll-feed"
@@ -22,7 +24,7 @@ end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :windows do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end

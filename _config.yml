@@ -12,3 +12,11 @@ social:
     - "https://twitter.com/yourusername"
     - "https://linkedin.com/in/yourusername"
     - "https://github.com/J0rdynh0"
+    
+remote_theme: realnamesareboring/jekyll-and-hire
+
+plugins:
+ - jekyll-remote-theme
+ - jekyll-sitemap
+ - jekyll-seo-tag
+ - jekyll-feed    
