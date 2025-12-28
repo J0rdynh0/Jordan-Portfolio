@@ -56,7 +56,7 @@ experience:
 
 # Education - Original Template Data
 education:
-  - degree: "Accelerated Cybersecurity Training Program"
+  - degree: "Accelerated Cybersecurity Training Program (CLIC)"
     institution: "ROGERS Cybersecure Catalyst"
     period: "Oct 2024 - June 2025"
     description: "Seven month accelearated program of 2 SANS Institute courses: SANS SEC401 and SEC275 and additonal Cyber Range workshop on cybersecurity incident response and ransomware."
@@ -83,7 +83,7 @@ certifications:
 
 # Skills - Original Template Data
 skills:
-  - category: "Microsoft Secuirty Stack"
+  - category: "Microsoft Security Stack"
     icon: "🛡️"
     tags:
       - "Defender for Endpoint"
@@ -141,7 +141,7 @@ skills:
 
 # Projects - Original Template Data
 projects:
-  - title: "Azure SOC Automation"
+  - title: "Azure SOC Automation (Coming soon....)"
     icon: "🤖"
     url: "https://github.com/yourusername/threathunter-ai"
     description: "Cloud-Based Home SOC lab using Microsoft Sentinel. Verify real world brute-force attacks in real time."
@@ -149,9 +149,10 @@ projects:
       - label: "Demo"
         url: "#"
       - label: "GitHub"
+      - label: "Kusto"
         url: "#"
   
-  - title: "Map SOC 2 Controls to a Sample Cloud Environment"
+  - title: "Map SOC 2 Controls to a Sample Cloud Environment (Coming soon....)"
     icon: "🔒"
     description: "Use an Azure Sandbox account to understand how technical controls align with SOC 2 Trust Service Criteria."
     links:
@@ -165,6 +166,7 @@ projects:
     description: "Modern, interactive portfolio website built with Jekyll, featuring a sleek tech-themed design perfect for tech professionals or anyone interested. The idea is to, well, get hired!"
     links:
       - label: "GitHub"
+      - label: "Jekyll"
         url: "#"
 
 # SEO - Original Template Data
