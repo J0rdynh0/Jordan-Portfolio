@@ -59,7 +59,7 @@ education:
   - degree: "Accelerated Cybersecurity Training Program (CLIC)"
     institution: "ROGERS Cybersecure Catalyst"
     period: "Oct 2024 - June 2025"
-    description: "Seven month accelearated program of 2 SANS Institute courses: SANS SEC401 and SEC275 and additonal Cyber Range workshop on cybersecurity incident response and ransomware."
+    description: "Seven month accelearated program of 2 SANS Institute courses: SANS SEC401 and SEC275. Additonal Cyber Range workshop on cybersecurity incident response and ransomware."
   
   - degree: "Bachelor of Business Administration"
     institution: "Wheeling University"
@@ -162,12 +162,12 @@ projects:
         url: "#"
   
   - title: "Jekyll & Hire"
-    icon: "🛠️"
+    icon: "⚗️"
     description: "Modern, interactive portfolio website built with Jekyll, featuring a sleek tech-themed design perfect for tech professionals or anyone interested. The idea is to, well, get hired!"
     links:
       - label: "GitHub"
       - label: "Jekyll"
-        url: "#"
+        url: "https://github.com/J0rdynh0/Jordan-Portfolio"
 
 # SEO - Original Template Data
 seo:
