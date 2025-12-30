@@ -1,7 +1,7 @@
 title: "Jordan Simpson"
 description: "I am an aspiring Cybersecurity analyst building skills in threat hunting and security operations."
-url: "https://j0rdynh0.github.io/Jordan-Portfolio" #Your github url goes here
-baseurl: "/Jordan-Portfolio" 
+url: "https://j0rdynh0.github.io" #Your github url goes here
+baseurl: "" 
 
 author: "Jordan Simpson"
 twitter:
