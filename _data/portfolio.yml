@@ -162,7 +162,7 @@ projects:
         url: "#"
   
   - title: "Jekyll & Hire"
-    icon: "⚗️"
+    icon: "🧪"
     description: "Modern, interactive portfolio website built with Jekyll, featuring a sleek tech-themed design perfect for tech professionals or anyone interested. The idea is to, well, get hired!"
     links:
       - label: "GitHub"
