@@ -141,16 +141,14 @@ skills:
 
 # Projects - Original Template Data
 projects:
-  - title: "Azure SOC Automation (Coming soon....)"
+  - title: "Azure SOC Automation"
     icon: "🤖"
     url: "https://github.com/yourusername/threathunter-ai"
     description: "Cloud-Based Home SOC lab using Microsoft Sentinel. Verify real world brute-force attacks in real time."
     links:
-      - label: "Demo"
-        url: "#"
       - label: "GitHub"
       - label: "Kusto"
-        url: "#"
+        url: "https://github.com/J0rdynh0/Azure-Sentinel-SOC-Lab"
   
   - title: "Map SOC 2 Controls to a Sample Cloud Environment (Coming soon....)"
     icon: "🔒"
