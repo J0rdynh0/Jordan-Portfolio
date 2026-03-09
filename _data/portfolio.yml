@@ -31,9 +31,19 @@ navigation:
 
 # Experience - Original Template Data with Bullet Points
 experience:
+  - title: "Help Desk Analyst"
+    company: "Tangerine Bank"
+    period: "Feb 2026- present
+    description:
+      - " Provide front line technical support for desktops, laptops, VDI environments, and mobile devices, ensuring timely resolution of user issues across a fast‑paced, dynamic environment"
+      - "Deliver customer service by translating technical concepts into clear, user‑friendly guidance for both technical and non‑technical stakeholders"
+      - "Monitor, triage, and prioritize incidents using ITIL‑aligned processes, ensuring accurate logging, categorization, and escalation through an enterprise service desk platform"
+      - "Utilize Active Directory to support user account management, group membership, and permissions troubleshooting"
+      - "Work effectively under pressure while managing multiple tasks, maintaining accuracy, and delivering consistent, high‑quality support"
+      
   - title: "Service Coordinator"
     company: "Interfax Systems Inc."
-    period: "Oct 2022 - Present"
+    period: "Oct 2022 - Feb 2026"
     description:
       - "Working in the electronic test equipment and measuring equipment distribution industry,helping customers with all their Test Equipment repair and calibration requirements."
       - "Act as first point of contact for all incoming technical service inquiries, triaging issues via phone and email with a focus on efficient response time and accurate resolution."
