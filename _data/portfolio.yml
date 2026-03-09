@@ -154,7 +154,7 @@ projects:
   - title: "Azure SOC Automation"
     icon: "🤖"
     url: "https://github.com/yourusername/threathunter-ai"
-    description: "Cloud-Based Home SOC lab using Microsoft Sentinel. Verify real world brute-force attacks in real time."
+    description: "Cloud-Based Home SOC lab using Microsoft Sentinel. Verifying real world brute-force attacks in real time."
     links:
       - label: "GitHub"
       - label: "Kusto"
